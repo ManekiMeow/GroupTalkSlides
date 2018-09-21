@@ -1,3 +1,2 @@
-# hello-world
-beep beep i'm sheep
-beep boop
+# Group Talk Slides
+Hello. This is a repo for my group talk slides and source codes.
